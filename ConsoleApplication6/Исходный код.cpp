@@ -56,8 +56,6 @@ public:
 		return(a[i]);
 	}
 
-	ostream& operator<<(iostream& os, vector&c);
-	istream& operator>>(iostream& is, vector&c);
 };
 int main()
 {
